@@ -1,0 +1,9 @@
+build/
+*.pyd
+*.so
+*.pyc
+*.o
+*.exe
+*.obj
+*.swp
+
